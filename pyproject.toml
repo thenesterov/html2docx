@@ -1,6 +1,6 @@
 [project]
 name = "html2docx"
-version = "0.0.7"
+version = "0.0.6"
 
 dependencies = [
   "beautifulsoup4 == 4.8.0",
